@@ -10,3 +10,5 @@ Redesigning (modernizing) the Berkshire Hathaway website, it will be made using 
 <img width="1512" alt="Screenshot 2024-02-12 at 6 06 57 PM" src="https://github.com/himranedh/Berkshire-Hathaway-Website-Redesign/assets/130966622/4937c009-9dc0-4009-b749-cd43f443dc5b">
 
 <img width="1512" alt="Screenshot 2024-02-12 at 6 07 17 PM" src="https://github.com/himranedh/Berkshire-Hathaway-Website-Redesign/assets/130966622/40dbbdb3-921f-4fe5-81e0-ae879013e750">
+
+Figma: https://www.figma.com/design/AicKijXFvSiz7Y38y0Lc6b/Berkshire-Hathaway-Redesign?node-id=0-1&t=qcxi38OCuhF5AuKw-0
