@@ -1,4 +1,7 @@
 # CS2450WebsiteRedesign
+
+[Original Berkshire Hathaway Website](berkshirehathaway.com)
+
 Redesigning (modernizing) the Berkshire Hathaway website, it will be made using JavaFX.
 - Updated the website’s antiquated look to a modern style by including images, transitions, and visual feedback.
 - Utilize colors found in other Berkshire Hathaway subsidiaries to bring conformity to the website.
