@@ -1,6 +1,6 @@
 # CS2450WebsiteRedesign
 
-[Original Berkshire Hathaway Website](https://www.berkshirehathaway.com)
+<a href="https://www.berkshirehathaway.com" target="_blank">Original Berkshire Hathaway Website</a>
 
 Redesigning (modernizing) the Berkshire Hathaway website, it will be made using JavaFX.
 - Updated the website’s antiquated look to a modern style by including images, transitions, and visual feedback.
